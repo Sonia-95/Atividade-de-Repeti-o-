@@ -1,3 +1,3 @@
 # Atividade-de-Repetição
 
-está atividade teste de repetição
+está atividade de laço de repetição
